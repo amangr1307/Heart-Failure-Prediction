@@ -106,5 +106,5 @@ We acknowledge the invaluable contribution of clinical datasets and the insights
 
 ### Contact
 For queries, suggestions, or feedback, please contact:
-- **Abhijat**
-- **GitHub**: (https://github.com/Abhijat-M)
+- **Aman**
+- **GitHub**: (https://github.com/amangr1307)
